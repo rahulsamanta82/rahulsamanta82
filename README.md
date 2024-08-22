@@ -211,7 +211,6 @@ f
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsamanta82&layout=compact&theme=vision-friendly-dark" align="right" height=160em>
 <br/>
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahulsamanta82&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
