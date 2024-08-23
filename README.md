@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Rahul+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
-<h3 align="center">Expert in Crafting Full-Stack Web Experiences: Proficient in MERN Stack, Node.js, MySQL, PHP, JavaScript, Api, Python, Figma, MongoDB, UI/UX Design, and Responsive Web Development.</h3>
+<h3 align="center">Expert in Attractive UI/UX Design & Web Development.</h3>
 
 <img align="right" alt="coding" height ="350" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
@@ -336,7 +336,39 @@ f
     <img src="https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white"/>
 </a>
 
+## 🎮 Games [🔝](#menu)
 
+<a href="#"> 
+    <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
+</a>
+<a href="#"> 
+    <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white"/>
+</a>
+
+## 🍔 Food [🔝](#menu)
+<a href="#"> 
+    <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white"/>
+</a>
+<a href="#"> 
+    <img src="https://img.shields.io/badge/Swiggy-FC8019?style=for-the-badge&logo=Swiggy&logoColor=white"/>
+</a>
+<a href="#"> 
+    <img src="https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white"/>
+</a>
+<a href="#"> 
+    <img src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white"/>
+</a>
+<a href="#"> 
+    <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white"/>
+</a>
+<a href="#"> 
+    <img src="https://img.shields.io/badge/foodpanda-E23744?style=for-the-badge&logo=zomato&logoColor=white"/>
+</a>
+<a href="#"> 
+    <img src="https://img.shields.io/badge/Deliveroo-00CCBC?style=for-the-badge&logo=Deliveroo&logoColor=white"/>
+</a>
+
+<!--
 ## Skills
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -347,7 +379,7 @@ f
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/arghadipmanna101/arghadipmanna101/assets/130065095/20307e98-2925-48d5-a7dd-7ee6a589c563" alt="canva" width="40" height="40"/> </a>
 </div>
 <br/>
-<hr/> 
+<hr/> -->
 
 <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
@@ -357,7 +389,7 @@ f
 [![An image of @rahulsamanta82's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulsamanta82)](https://holopin.me/rahulsamanta82)
 
 
-## My Stats
+## 🌐 My Status
 <p align="center"> <b>Profile Views<b> 
   <br>
   <img src="https://profile-counter.glitch.me/{rahulsamanta82}/count.svg" alt="Profile Visits" />
@@ -368,6 +400,12 @@ f
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=merko" align="left" height=160em>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsamanta82&layout=compact&theme=vision-friendly-dark" align="right" height=160em>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 ## 🏆 GitHub Trophies
@@ -380,7 +418,7 @@ f
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## Creators [🔝](#menu) 
+## 🔁 Creators
 
 It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/rahulsamanta82/Badges4-README.md-Profile/graphs/contributors). We do respect & love our all contributors.
 
@@ -388,10 +426,15 @@ It's only possible because of [Shields Project](https://github.com/badges/shield
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://github.com/rahulsamanta82.png?size=115" width=115><br><sub>@rahulsamanta82</sub>](https://github.com/rahulsamanta82) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/rahulsamanta82)
 
-## Thanks to all contributors ❤
 
- <a href = "https://github.com/rahulsamanta82/rahulsamanta82/graphs/contributors">
+## ⏱Thanks to all contributors ❤
+
+<!--<a href = "https://github.com/rahulsamanta82/rahulsamanta82/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=rahulsamanta82/rahulsamanta82"/>
+ </a>-->
+
+ <a href = "https://github.com/rahulsamanta82/Hackbook/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=alexandresanlim/Badges4-README.md-Profile"/>
  </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsamanta82&label=Profile%20views&color=00ff6e&style=flat" alt="rahulsamanta82" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rahulsamanta82&label=Profile%20views&color=00ff6e&style=flat" alt="rahulsamanta82" /> </p>
