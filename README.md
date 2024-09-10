@@ -389,6 +389,17 @@ f
 [![An image of @rahulsamanta82's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulsamanta82)](https://holopin.me/rahulsamanta82)
 
 
+## 🌐 Coding Profile
+<p align="center">
+  <a href="https://leetcode.com/u/Rahul_Samanta82/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+<br/>
+<p align="center">
+  <a href="https://leetcode.com/niveditakaurr/">
+  <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/niveditakaurr?theme=light&ext=heatmap&width=490&font=noto_sans_display"/>
+  </a>
+</p>
+
+
 ## 🌐 My Status
 <p align="center"> <b>Profile Views<b> 
   <br>
