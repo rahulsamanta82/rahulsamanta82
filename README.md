@@ -23,6 +23,7 @@ f
 
 - 🤗 Explore real-time weather updates with my Weather App: featuring a sleek design and user-friendly interface [**Weather App**](https://rahulsamanta82.github.io/Weather_app/)
 
+
 ## 🌏 **CONNECT WITH ME**
 
 <a href="https://www.instagram.com/rs4655742/?hl=en"> 
@@ -368,6 +369,7 @@ f
     <img src="https://img.shields.io/badge/Deliveroo-00CCBC?style=for-the-badge&logo=Deliveroo&logoColor=white"/>
 </a>
 
+
 <!--
 ## Skills
 
@@ -398,6 +400,31 @@ f
   <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/Rahul_Samanta82?theme=light&ext=heatmap&width=490&font=noto_sans_display"/>
   </a>
 </p>
+
+## 📈 GitHub Analytics
+<div align="center">
+  <a href="#">
+    <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsamanta82&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
+  </a>
+  <a href="#">
+    <img width="520em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulsamanta82&theme=buefy" alt="Nivedita's github summary"/>
+  </a>
+</div>
+  <br>
+<div align="center">
+  <a href="#">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&theme=buefy&show_icons=true&hide_border=false" alt="Nivedita's github stats"/>
+  </a>
+  <a href="#">
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsamanta82&theme=buefy&hide_border=false" alt="Nivedita's github streak"/>
+  </a>
+</div>
+  <br>
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulsamanta82&theme=minimal&area=true&radius=14&title_color=9479dd&point=ff3860&line=FFDF99" alt="Contribution Graph"/>
+  </a>
+</div>
 
 
 ## 🌐 My Status
