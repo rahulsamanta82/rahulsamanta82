@@ -395,7 +395,7 @@ f
 <br/>
 <p align="center">
   <a href="https://leetcode.com/u/Rahul_Samanta82/">
-  <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/niveditakaurr?theme=light&ext=heatmap&width=490&font=noto_sans_display"/>
+  <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/Rahul_Samanta82?theme=light&ext=heatmap&width=490&font=noto_sans_display"/>
   </a>
 </p>
 
