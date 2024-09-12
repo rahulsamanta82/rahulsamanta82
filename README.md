@@ -17,7 +17,7 @@ f
 
 - ⚡ Fun fact **I am an excellent cook**
 
-- 📫 How to reach me **rs4655742@gmail.com**
+- 📫 How to reach me **rs4655742@gmail.com** 
 
 - 👨‍💻 Explore more about me by asking any questions to my Login Page here at: [**Registration Form**](https://rahulsamanta82.github.io/Registration_from/)
 
