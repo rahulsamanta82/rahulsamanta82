@@ -426,26 +426,6 @@ f
   </a>
 </div>
 
-
-## 🌐 My Status
-<p align="center"> <b>Profile Views<b> 
-  <br>
-  <img src="https://profile-counter.glitch.me/{rahulsamanta82}/count.svg" alt="Profile Visits" />
-</p>
-
-<p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=rahulsamanta82&theme=dark&background=000000" alt="GitHub Streak" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=merko" align="left" height=160em>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsamanta82&layout=compact&theme=vision-friendly-dark" align="right" height=160em>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahulsamanta82&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
