@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/rahul-samanta-116572275//" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
 
-- 🔭 I’m currently working on **UI/UX Design using Figma**
+- 🔭 I’m currently working on **Design**
 f
 - 🌱 I’m currently learning **Mongodb** 
 
@@ -13,7 +13,7 @@ f
 
 - 📝 Explore detailed **blogs** on my **Design** and **JavaScript** projects [**here.**](https://rahulsamanta82.github.io/Multi_Gaming/)
 
-- 💬 Ask me about **UI/UX Design, MySQL and as well as MERN Stack**
+- 💬 Ask me about **UI/UX Design, MERN Stack**
 
 - ⚡ Fun fact **I am an excellent cook**
 
