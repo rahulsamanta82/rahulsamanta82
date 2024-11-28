@@ -11,7 +11,7 @@ f
 
 - 👨‍💻 [**View my portfolio**](https://mr-rahul-samanta.vercel.app/) to see all of my projects.
 
-- 📝 Explore detailed **blogs** on my **Design** and **JavaScript** projects [**here.**](rahul-funville.vercel.app/)
+- 📝 Explore detailed **blogs** on my **Design** and **JavaScript** projects [**here.**](https://rahul-funville.vercel.app/)
 
 - 💬 Ask me about **UI/UX Design, Full stack development**
 
