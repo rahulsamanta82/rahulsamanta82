@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://www.linkedin.com/in/rahul-samanta-116572275//" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack development**
-f
 - 🌱 I’m currently learning **React** 
 
 - 👨‍💻 [**View my portfolio**](https://mr-rahul-samanta.vercel.app/) to see all of my projects.
