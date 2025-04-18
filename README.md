@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Full Stack development**
 - 🌱 I’m currently learning **React** 
 
-- 👨‍💻 [**View my portfolio**](https://mr-rahul-samanta.vercel.app/) to see all of my projects.
+- 👨‍💻 [**View my portfolio**](https://mr-rahul.vercel.app/) to see all of my projects.
 
 - 📝 Explore detailed **blogs** on my **Design** and **JavaScript** projects [**here.**](https://rahul-funville.vercel.app/)
 
