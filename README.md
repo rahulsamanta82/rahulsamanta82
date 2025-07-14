@@ -1,10 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Rahul+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://i.postimg.cc/1tBXFwQH/header.gif">
+</div>
 <h3 align="center">Expert in Attractive Design & Full steck Development.</h3>
-
-<img align="right" alt="coding" height ="350" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
-
-<p align="left"> <a href="https://www.linkedin.com/in/rahul-samanta-116572275//" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
-
+<table>
+  <td>
+    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
+   
 - 🔭 I’m currently working on **Full Stack development**
 - 🌱 I’m currently learning **React** 
 
@@ -20,6 +22,16 @@
 
 - 🤗 Explore real-time weather updates with my Weather App: featuring a sleek design and user-friendly interface [**Weather App**](https://rahulsamanta82.github.io/Weather_app/)
 
+    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
+  </td>
+  <td>
+    <img src="https://i.postimg.cc/SKTNNq7T/goku.png"/>
+  </td>
+</table>
+
+<div align="center">
+  <img src="https://i.postimg.cc/s2FrgXtg/footer.gif">
+</div>
 
 ## 🌏 **CONNECT WITH ME**
 
