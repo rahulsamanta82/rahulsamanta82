@@ -437,7 +437,7 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&theme=buefy&show_icons=true&hide_border=false" alt="Nivedita's github stats"/>
   </a>
   <a href="#">
-    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsamanta82&theme=buefy&hide_border=false" alt="Nivedita's github streak"/>
+    <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulsamanta82&theme=blueberry&hide_border=false" alt="Nivedita's github streak"/>
   </a>
 </div>
   <br>
