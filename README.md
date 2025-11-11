@@ -395,7 +395,7 @@
 <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture> Holopin Badges (Hacktober Fest 2k23)</h2>
+</picture> Holopin Badges (Hacktober Fest 2025)</h2>
 
 [![An image of @rahulsamanta82's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulsamanta82)](https://holopin.me/rahulsamanta82)
 
@@ -432,21 +432,61 @@
   </a>
 </div>
   <br>
+
+
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rahulsamanta82&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rahulsamanta82&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=rahulsamanta82&theme=default&border=61dafb" alt="rahulsamanta82's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=default&border_color=61dafb" alt="rahulsamanta82's github stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- spaces -->
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahulsamanta82&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahulsamanta82&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahulsamanta82&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="rahulsamanta82's contribution graph" />
+    </picture>
+  </a>
+</p>
+
+<hr />
+
+<!-- snake graph -->
 <div align="center">
-  <a href="#">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&theme=buefy&show_icons=true&hide_border=false" alt="Nivedita's github stats"/>
-  </a>
-  <a href="#">
-    <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulsamanta82&theme=blueberry&hide_border=false" alt="Nivedita's github streak"/>
-  </a>
-</div>
-  <br>
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulsamanta82&theme=minimal&area=true&radius=14&title_color=9479dd&point=ff3860&line=FFDF99" alt="Contribution Graph"/>
-  </a>
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/rahulsamanta82/rahulsamanta82/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
 </div>
 
+  <hr />
+  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahulsamanta82&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
