@@ -424,9 +424,9 @@
 
 ## 📈 GitHub Analytics
 <div align="center">
-  <a href="#">
+  <!-- <a href="#">
     <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsamanta82&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
-  </a>
+  </a> -->
   <a href="#">
     <img width="520em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulsamanta82&theme=buefy" alt="Nivedita's github summary"/>
   </a>
