@@ -449,13 +449,13 @@
       </picture>
     </a>
   <!-- github stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=default&border_color=61dafb" />
         <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=default&border_color=61dafb" alt="rahulsamanta82's github stats" />
       </picture>
-    </a>
+    </a> -->
   </div>
   <!-- spaces -->
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
