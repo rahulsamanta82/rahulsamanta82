@@ -523,3 +523,13 @@ It's only possible because of [Shields Project](https://github.com/badges/shield
  </a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahulsamanta82&label=Profile%20views&color=00ff6e&style=flat" alt="rahulsamanta82" /> </p>
+
+
+
+
+
+## 📈 GitHub 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-dual.svg" alt="3D Contribution Graph">
+</p>
