@@ -527,11 +527,4 @@ It's only possible because of [Shields Project](https://github.com/badges/shield
 
 
 ## 📈 GitHub 3D Contribution Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph">
-</p>
-
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
