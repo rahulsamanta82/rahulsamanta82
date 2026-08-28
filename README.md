@@ -405,7 +405,7 @@
 
 [![An image of @rahulsamanta82's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulsamanta82)](https://holopin.me/rahulsamanta82)
 
-[![@vaspakhee_1807's Holopin board](https://holopin.me/vaspakhee_1807)](https://holopin.io/@vaspakhee_1807)
+[![@rahulsamanta82's Holopin board](https://holopin.me/vaspakhee_1807)](https://holopin.io/@rahulsamanta82)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pakhi-v&label=Profile%20views&color=0e75b6&style=flat" alt="pakhi-v"> </p> -->
 
