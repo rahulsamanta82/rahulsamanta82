@@ -431,54 +431,7 @@
 </p>
 
 
-## 📈 GitHub Analytics
-<div align="center">
-  <!-- <a href="#">
-    <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsamanta82&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
-  </a> -->
-  <a href="#">
-    <img width="520em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulsamanta82&theme=buefy" alt="Nivedita's github summary"/>
-  </a>
-</div>
-  <br>
 
-
-<!-- stats -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
-<p align=center>
-<!-- first row -->
-  <div align=center>
-  <!-- streak stats -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rahulsamanta82&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rahulsamanta82&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=rahulsamanta82&theme=default&border=61dafb" alt="rahulsamanta82's streak stats" />
-      </picture>
-    </a>
-  <!-- github stats -->
-    <!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=default&border_color=61dafb" alt="rahulsamanta82's github stats" />
-      </picture>
-    </a> -->
-  </div>
-  <!-- spaces -->
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahulsamanta82&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahulsamanta82&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahulsamanta82&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="rahulsamanta82's contribution graph" />
-    </picture>
-  </a>
-</p>
-
-<hr />
 
 <!-- snake graph -->
 <div align="center">
